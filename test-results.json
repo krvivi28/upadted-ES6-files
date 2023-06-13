@@ -1,0 +1,31 @@
+{
+  "runtime": 363,
+  "percentageScore": 100,
+  "count": {
+    "total": 2,
+    "passed": 2
+  },
+  "failedTestCases": [],
+  "suites": [
+    {
+      "suiteName": "testing sum1 for ES6 syntax",
+      "passed": true,
+      "testCases": [
+        {
+          "passed": true,
+          "description": "should print 2+3=5"
+        }
+      ]
+    },
+    {
+      "suiteName": "testing sum2 for commonjs",
+      "passed": true,
+      "testCases": [
+        {
+          "passed": true,
+          "description": "should print 2+3=5"
+        }
+      ]
+    }
+  ]
+}
